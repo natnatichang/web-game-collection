@@ -1,6 +1,6 @@
 Classic Arcade Revival
 
-A collection of iconic game reimplementations I developed during my game programming coursework. These games are built using C++ and compiled to WebAssembly with Emscripten, allowing for seamless browser gameplay without any downloads or plugins.
+A collection of iconic game reimplementations I completed as part of my game programming coursework. Each project involved implementing core mechanics and features to recreate these classic titles. Built using C++ and compiled to WebAssembly with Emscripten, allowing for seamless browser gameplay without any downloads or plugins.
 
 - [Pong](https://natnatichang.github.io/web-game-collection/Ping%20Pong/Lab01.html)
 - [Asteroids](https://natnatichang.github.io/web-game-collection/Asteroids/Lab02.html)
